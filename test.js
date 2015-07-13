@@ -6,6 +6,18 @@ describe( 'nextPowerOfTen()', function() {
 		assert.equal( nextPowerOfTen(81), 100 );
 	});
 
+	it( 'returns -1 given -1', function() {
+		assert.equal( nextPowerOfTen(-1), -1 );
+	});
+
+	it( 'returns 1 given 0', function() {
+		assert.equal( nextPowerOfTen(0), 1 );
+	});
+
+	it( 'returns 1 given 1', function() {
+		assert.equal( nextPowerOfTen(1), 1 );
+	});
+
 	it( 'returns -1 given -9', function() {
 		assert.equal( nextPowerOfTen(-9), -1 );
 	});
