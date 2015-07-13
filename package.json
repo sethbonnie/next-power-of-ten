@@ -1,6 +1,6 @@
 {
   "name": "next-power-of-ten",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Returns the nearest next power of ten",
   "main": "index.js",
   "scripts": {
