@@ -1,0 +1,19 @@
+{
+  "name": "next-power-of-ten",
+  "version": "0.0.0",
+  "description": "Returns the nearest next power of ten",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sethbonnie/next-power-of-ten.git"
+  },
+  "author": "Seth Bonnie <sethkbonnie@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sethbonnie/next-power-of-ten/issues"
+  },
+  "homepage": "https://github.com/sethbonnie/next-power-of-ten"
+}
